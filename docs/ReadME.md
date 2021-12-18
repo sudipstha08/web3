@@ -35,6 +35,12 @@
 ## Pinata
 - a convenient IPFS API and toolkit, to store our NFT asset and metadata to ensure our NFT is truly decentralized
 
+## Remix
+- Remix IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Remix is used for the entire journey of contract development as well as being a playground for learning and teaching Ethereum.
+- Remix IDE is part of the Remix Project which is a platform for development tools that use a plugin architecture. It encompasses sub-projects including Remix Plugin Engine, Remix Libs, and of course Remix-IDE.
+- Remix IDE is a powerful open source tool that helps you write Solidity contracts straight from the browser.
+- It is written in JavaScript and supports both usage in the browser, in the browser but run locally and in a desktop version.
+
 ## commands
 1. npx hardhat compile
 2. npx hardhat run scripts/deploy.js --network ropsten
