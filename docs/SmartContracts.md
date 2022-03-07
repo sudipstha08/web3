@@ -8,6 +8,62 @@
 
 - Then the smart contract can be programmed by a developer – although increasingly, organizations that use blockchain for business provide templates, web interfaces, and other online tools to simplify structuring smart contracts.
 
+- Blockchain technology has undoubtedly revolutionized many industries. However, the hacks and exploits of many renowned blockchain applications have created notable setbacks for the long-term growth of blockchain. Blockchain networks can be secure, while applications running on them might not be as secure as expected. Blockchain applications use smart contracts for interacting with the blockchain, and smart contracts have profound security vulnerabilities. This is where you need a smart contract audit.
+
+- The audit process for a smart contract focuses on scrutiny of the code used for underwriting the terms and conditions in the smart contract. With the help of such an audit, smart contract developers could easily identify the vulnerabilities and bugs before the deployment of smart contracts. 
+
+- Generally, third-party entities carry out smart contract audits to ensure a thorough review of the code. On the other hand, enterprises can choose professional, smart contract auditors for carrying out the audit process. 
+
+Smart Contract Auditing
+Blockchain technology has undoubtedly revolutionized many industries. However, the hacks and exploits of many renowned blockchain applications have created notable setbacks for the long-term growth of blockchain. Blockchain networks can be secure, while applications running on them might not be as secure as expected. Blockchain applications use smart contracts for interacting with the blockchain, and smart contracts have profound security vulnerabilities. This is where you need a smart contract audit.
+
+The audit process for a smart contract focuses on scrutiny of the code used for underwriting the terms and conditions in the smart contract. With the help of such an audit, smart contract developers could easily identify the vulnerabilities and bugs before the deployment of smart contracts. 
+
+Generally, third-party entities carry out smart contract audits to ensure a thorough review of the code. On the other hand, enterprises can choose professional, smart contract auditors for carrying out the audit process. 
+
+It is quite important to test the code thoroughly before deploying the smart contract. Why? Once you write the smart contract to the blockchain, it is impossible to change the code. Deploying smart contracts without proper audits could result in untoward circumstances such as discrepancies in the desired performance of the contract. At the same time, inadequate audit processes could also land you up with risks such as loss of personal data or data theft. 
+
+To categorize the auditing process in separate phases, 
+Code Freeze
+
+Code Review
+
+Automated Analysis
+
+Manual Analysis / Functional Analysis
+
+Known Vulnerability Analysis
+
+Pen Testing 
+
+First Audit Report 
+
+Code Fixes
+
+Final Audit Report
+
+Importance of Smart Contract Audits
+Better optimization of the code
+
+Improved performance of smart contracts
+
+Enhanced security of wallets
+
+Security against hacking attacks
+
+The skills for auditing smart contracts could help enterprises stay safe from notable security attacks like,
+Reentrancy attack
+
+Reordering attack
+
+Short address attack
+
+Over and underflows
+
+Replay attack
+
+REFERENCES:
+
 
 
 [REFERENCES]
@@ -15,3 +71,5 @@
 - https://hardhat.org/tutorial/testing-contracts.html#writing-tests
 - https://medium.com/geekculture/expansionpunks-welcome-to-the-more-inclusive-punkverse-aa77e675bcf5
 - https://www.ibm.com/topics/smart-contracts
+- https://101blockchains.com/smart-contract-audit/#:~:text=The%20audit%20process%20for%20a,the%20deployment%20of%20smart%20contracts.
+- https://www.investopedia.com/terms/b/blockchain.asp

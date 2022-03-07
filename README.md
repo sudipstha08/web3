@@ -10,3 +10,4 @@
 7. https://chainwave.io/blockchain-frontend-engineers/
 8. https://www.blockchain-council.org/blockchain/a-complete-guide-on-ethereum-frontend-javascript-apis/
 9. https://dev.to/rounakbanik/building-a-web3-frontend-with-react-340c
+10. https://cmichel.io/how-to-become-a-smart-contract-auditor/
