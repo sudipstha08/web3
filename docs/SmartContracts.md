@@ -73,3 +73,4 @@ REFERENCES:
 - https://www.ibm.com/topics/smart-contracts
 - https://101blockchains.com/smart-contract-audit/#:~:text=The%20audit%20process%20for%20a,the%20deployment%20of%20smart%20contracts.
 - https://www.investopedia.com/terms/b/blockchain.asp
+- https://www.blockchain-council.org/ethereum/erc20-vs-erc721/
